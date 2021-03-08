@@ -1,5 +1,4 @@
 # Visualizations
-Data Viz. Work
 
-Data Visualization Using Tableau
+Data Visualization Using Tableau and Python
 
